@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.brunoti.cursos.dio.gradle.modulo1">
+
+    <application>
+        <activity android:name=".Modulo1Activity"></activity>
+    </application>
+
+</manifest>

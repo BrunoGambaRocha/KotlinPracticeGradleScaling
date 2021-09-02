@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Practise Gradle Scalable</string>
+    <string name="txt_open_module1">Abrir Módulo 1</string>
+</resources>
