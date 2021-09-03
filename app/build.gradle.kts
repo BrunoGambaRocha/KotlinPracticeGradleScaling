@@ -39,7 +39,7 @@ dependencies {
 
     implementation(project(":module1"))
 
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:${rootProject.extra["kotlin_version"]}")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:${Deps.Version.kotlin}")
     implementation("androidx.core:core-ktx:1.6.0")
     implementation("androidx.appcompat:appcompat:1.3.1")
     implementation("com.google.android.material:material:1.4.0")

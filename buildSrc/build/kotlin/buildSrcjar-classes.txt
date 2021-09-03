@@ -1,0 +1,1 @@
+C:\workspaces\AndroidStudio\KotlinPractiseGradleScalable\buildSrc\build\classes\kotlin\main\Deps$Version.class;C:\workspaces\AndroidStudio\KotlinPractiseGradleScalable\buildSrc\build\classes\kotlin\main\Deps.class
