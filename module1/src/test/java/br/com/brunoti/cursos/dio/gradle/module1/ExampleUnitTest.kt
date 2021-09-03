@@ -1,4 +1,4 @@
-package br.com.brunoti.cursos.dio.gradle.modulo1
+package br.com.brunoti.cursos.dio.gradle.module1
 
 import org.junit.Test
 
