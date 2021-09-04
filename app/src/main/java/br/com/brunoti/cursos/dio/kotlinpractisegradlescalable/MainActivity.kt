@@ -3,8 +3,8 @@ package br.com.brunoti.cursos.dio.kotlinpractisegradlescalable
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import br.com.brunoti.cursos.dio.gradle.module1.Module1Activity
 import br.com.brunoti.cursos.dio.kotlinpractisegradlescalable.databinding.ActivityMainBinding
+import br.com.brunoti.cursos.dio.gradle.module1.Module1Activity
 
 class MainActivity : AppCompatActivity() {
 

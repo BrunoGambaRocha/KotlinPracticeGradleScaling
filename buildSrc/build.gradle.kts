@@ -8,7 +8,7 @@ repositories {
 }
 
 kotlin {
-    //Add Deps to compilation, so it will become avaiable in main project
+    // Add Deps to compilation, so it will become available in main project
     sourceSets.getByName("main").kotlin.srcDir("buildSrc/src/main/kotlin")
 }
 
@@ -18,10 +18,18 @@ gradlePlugin {
             id = "my-project-plugin"
             implementationClass = "ProjectPlugin"
         }
+        register("my-library-plugin") {
+            id = "my-library-plugin"
+            implementationClass = "LibraryPlugin"
+        }
+        register("my-application-plugin") {
+            id = "my-application-plugin"
+            implementationClass = "ApplicationPlugin"
+        }
     }
 }
 
-dependencies{
+dependencies {
     implementation("com.android.tools.build:gradle:${Deps.Version.agp}")
     implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:${Deps.Version.kotlin}")
 }

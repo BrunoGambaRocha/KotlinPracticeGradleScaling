@@ -3,7 +3,7 @@
     package="br.com.brunoti.cursos.dio.gradle.module1">
 
     <application>
-        <activity android:name=".Module1Activity"></activity>
+        <activity android:name=".Module1Activity" />
     </application>
 
 </manifest>
