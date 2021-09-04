@@ -1,4 +1,4 @@
-package br.com.brunoti.cursos.dio.kotlinpractisegradlescalable
+package br.com.brunoti.cursos.dio.kotlinpractisegradlescaling
 
 import org.junit.Test
 

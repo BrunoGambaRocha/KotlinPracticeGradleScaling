@@ -1,4 +1,4 @@
-package br.com.brunoti.cursos.dio.kotlinpractisegradlescalable
+package br.com.brunoti.cursos.dio.kotlinpractisegradlescaling
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -20,7 +20,7 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals(
-            "br.com.brunoti.cursos.dio.kotlinpractisegradlescalable",
+            "br.com.brunoti.cursos.dio.kotlinpractisegradlescaling",
             appContext.packageName
         )
     }

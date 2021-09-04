@@ -1,8 +1,11 @@
 *.iml
 .gradle
+.gitignore
 /local.properties
+/.idea/.gitignore
 /.idea/caches
 /.idea/libraries
+/.idea/modules
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
@@ -11,6 +14,10 @@
 /build
 /buildSrc/build
 /buildSrc/buildSrc/build
+/includedBuilds/build-configuration/.gradle
+/includedBuilds/build-configuration/build
+/includedBuilds/build-source/.gradle
+/includedBuilds/build-source/build
 /captures
 .externalNativeBuild
 .cxx

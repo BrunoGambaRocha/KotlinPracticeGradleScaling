@@ -26,7 +26,7 @@ class ApplicationPlugin : Plugin<Project> {
             compileSdkVersion(30)
 
             defaultConfig {
-                applicationId = "br.com.brunoti.cursos.dio.kotlinpractisegradlescalable"
+                applicationId = "br.com.brunoti.cursos.dio.kotlinpractisegradlescaling"
                 minSdkVersion(21)
                 targetSdkVersion(30)
                 versionCode = 1
