@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Kotlin Practise Gradle Scaling</string>
-    <string name="txt_open_module1">Abrir Módulo 1</string>
+    <string name="txt_bootcamp">Dio Bootcamp Inter Dev Kotlin</string>
+    <string name="txt_title"><u>Pra você</u></string>
+    <string name="txt_PF">Conta Digital Pessoa Física</string>
+    <string name="txt_PJ">Conta Digital Pessoa Jurídica</string>
+    <string name="txt_MEI">Conta Digital MEI</string>
+    <string name="txt_Loans">Empréstimos</string>
+    <string name="txt_InterInvest">Inter Invest</string>
+    <string name="txt_InterShop">Inter Shop</string>
+    <string name="txt_Insurance">Seguros</string>
 </resources>

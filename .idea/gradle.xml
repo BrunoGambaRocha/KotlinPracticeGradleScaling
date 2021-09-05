@@ -29,7 +29,9 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/includedBuilds/build-configuration" />
             <option value="$PROJECT_DIR$/includedBuilds/build-source" />
-            <option value="$PROJECT_DIR$/module1" />
+            <option value="$PROJECT_DIR$/moduleOther" />
+            <option value="$PROJECT_DIR$/modulePF" />
+            <option value="$PROJECT_DIR$/modulePJ" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

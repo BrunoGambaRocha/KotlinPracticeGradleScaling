@@ -3,5 +3,7 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":module1"))
+    implementation(project(":modulePF"))
+    implementation(project(":modulePJ"))
+    implementation(project(":moduleOther"))
 }
