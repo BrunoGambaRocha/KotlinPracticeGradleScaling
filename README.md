@@ -1,6 +1,6 @@
 # Kotlin Practise Gradle Scaling
 
-<img src="screenshotXXXXXXXX.png"/>
+<img src="screenshot.png"/>
 
 - Instrutor: Manoel Lima
 - Repositório original: https://github.com/maplima/bootcamp-inter.git
@@ -12,20 +12,21 @@
 
 ## Vídeo Explicativo
 
-  [Youtube](https://youtu.be/XXXXXXXXX)
+  [Youtube](https://youtu.be/hW9a-c6nD2o)
 
 
 <hr>
 
 ##  Objetivo
 
-- Aplicação destinada à prática da mentoria "Como construir uma configuração .gradle escalável" do Bootcamp Inter
+- Aplicação destinada à prática da mentoria "Como construir uma configuração .gradle escalável" do Bootcamp Inter Dev Android
 - Criar Módulos extras para fixação do conteúdo
 
 
 <hr>
 
 ## Tecnologias Utilizadas
+
 - Kotlin
 - Gradle
 - Kotlin KTS
@@ -38,8 +39,7 @@
 <hr>
 
 ## Conteúdo Apresentado
-Migrar as configurações de build de projeto para uma estrutura centralizada e escalável,
-útil em projetos multi-módulos com a utilização de plugins personalizados.
+Migrar as configurações de build de projeto para uma estrutura centralizada e escalável, útil em projetos multi-módulos com a utilização de plugins personalizados.
 
 - Etapa 1: Gradle e estrutura modular
     - Criar um módulo Android Library
@@ -81,16 +81,16 @@ Scaling Your Android Build (Part 2): Q&A Panel from Google, Gradle, DropBox, Sla
 - https://youtu.be/0FTEWMO5sO4
 
 Introduction to Developer Productivity Engineering
-Inscrito no Webinar de 13 de setembro 2021 - 13:00 às 15:30 GMT-3
-https://gradle.com/training/introduction-developer-productivity-engineering/?time=1631491200
+- Inscrito no Webinar de 13 de setembro 2021 - 13:00 às 15:30 GMT-3
+- https://gradle.com/training/introduction-developer-productivity-engineering/?time=1631491200
 
 Introduction to Gradle Build Tool
-Inscrito no Webinar de 21 e 22 de setembro de 2021 - 12:30 às 16:30 GMT-3
-https://gradle.com/training/introduction-to-gradle-september/?time=1632182400
+- Inscrito no Webinar de 21 e 22 de setembro de 2021 - 12:30 às 16:30 GMT-3
+- https://gradle.com/training/introduction-to-gradle-september/?time=1632182400
 
 Gradle Build Cache Deep Dive
-Inscrito no Webinar de 29 de setembro de 2021 - 13:00 às 16:30 GMT-3
-https://gradle.com/training/gradle-build-cache-deep-dive-september/?time=1632873600
+- Inscrito no Webinar de 29 de setembro de 2021 - 13:00 às 16:30 GMT-3
+- https://gradle.com/training/gradle-build-cache-deep-dive-september/?time=1632873600
 
 
 <hr>
