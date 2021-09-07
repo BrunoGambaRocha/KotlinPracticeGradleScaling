@@ -1,4 +1,4 @@
-# Kotlin Practise Gradle Scaling
+# Kotlin Practice Gradle Scaling
 
 <img src="screenshot.png"/>
 
